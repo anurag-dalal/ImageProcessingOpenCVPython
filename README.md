@@ -12,4 +12,8 @@ The output is: \
 ![kmean Image](/kmeans/kmean.png "MarineGEO logo")
 
 To achieve this the scikit-learn library is used
-Five clusters are used and so we find how much percent of color are there in the 5 most used colors in the bar.
+Five clusters are used and so we find how much percent of color are there in the 5 most used colors in the bar. \
+
+# 2. Splitting or decomposing image
+An image(grayscale) is splitted into n number of images by iterating over the rows and columns of the original image and randomly copying the pixel value to any of the n images
+
