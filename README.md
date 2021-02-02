@@ -18,4 +18,4 @@ Five clusters are used and so we find how much percent of color are there in the
 An image(grayscale) is splitted into n number of images by iterating over the rows and columns of the original image and randomly copying the pixel value to any of the n images.\
 
 # 3. Simple encryption of image using XOR
-![Output Image](/simple-encrypt/Figure2021-02-02151720.png "Output Image")
+![Output Image](/simple_encrypt/Figure2021-02-02151720.png "Output Image")
