@@ -22,10 +22,10 @@ To achieve this the scikit-learn library is used
 Five clusters are used and so we find how much percent of color are there in the 5 most used colors in the bar. 
 
 # 2. Splitting or decomposing image
-An image(grayscale) is splitted into n number of images by iterating over the rows and columns of the original image and randomly copying the pixel value to any of the n images.\
+An image(grayscale) is splitted into n number of images by iterating over the rows and columns of the original image and randomly copying the pixel value to any of the n images.
 
 # 3. Simple encryption of grayscale image using XOR
 
 This example producaes a random key of the same shape as image and XOR it with the input image to encrpyt. \
-Then to decrpt the key is XORed with the encrypted image. 
+Then to decrpt the key is XORed with the encrypted image. \
 ![Output Image](/simple_encrypt/Figure2021-02-02151720.png "Output Image")
