@@ -29,3 +29,11 @@ An image(grayscale) is splitted into n number of images by iterating over the ro
 This example producaes a random key of the same shape as image and XOR it with the input image to encrpyt. \
 Then to decrpt the key is XORed with the encrypted image. \
 ![Output Image](/simple_encrypt/Figure2021-02-02151720.png "Output Image")
+
+# 4. Edge detection using fourier transform
+Read [this](https://akshaysin.github.io/fourier_transform.html#.YCYJrWgzY-V) blog for details about using filters in fourier domain in Image Processing.
+
+A high  pass filter is used to detect the edges in an grayscale image.
+
+The output is: \
+![Edge Detection Image](/edge_detection_fourier/result.png "Output Image")
